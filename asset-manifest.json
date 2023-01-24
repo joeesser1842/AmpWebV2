@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/AmpWebV2/static/css/main.e2c44f85.css",
-    "main.js": "/AmpWebV2/static/js/main.5a2083a3.js",
+    "main.css": "/AmpWebV2/static/css/main.842bf5ba.css",
+    "main.js": "/AmpWebV2/static/js/main.440da9d6.js",
     "static/js/787.28cb0dcd.chunk.js": "/AmpWebV2/static/js/787.28cb0dcd.chunk.js",
+    "static/media/about.md": "/AmpWebV2/static/media/about.0e5908367ccbcf27219e.md",
     "index.html": "/AmpWebV2/index.html",
-    "main.e2c44f85.css.map": "/AmpWebV2/static/css/main.e2c44f85.css.map",
-    "main.5a2083a3.js.map": "/AmpWebV2/static/js/main.5a2083a3.js.map",
+    "main.842bf5ba.css.map": "/AmpWebV2/static/css/main.842bf5ba.css.map",
+    "main.440da9d6.js.map": "/AmpWebV2/static/js/main.440da9d6.js.map",
     "787.28cb0dcd.chunk.js.map": "/AmpWebV2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2c44f85.css",
-    "static/js/main.5a2083a3.js"
+    "static/css/main.842bf5ba.css",
+    "static/js/main.440da9d6.js"
   ]
 }
