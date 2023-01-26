@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/AmpWebV2/static/css/main.190087cd.css",
-    "main.js": "/AmpWebV2/static/js/main.b01bbfa9.js",
+    "main.js": "/AmpWebV2/static/js/main.53237342.js",
     "static/js/787.28cb0dcd.chunk.js": "/AmpWebV2/static/js/787.28cb0dcd.chunk.js",
     "static/media/Meadows.jpg": "/AmpWebV2/static/media/Meadows.39f3e2f48e8d6556d47a.jpg",
     "static/media/Gibbons.jpg": "/AmpWebV2/static/media/Gibbons.561c4c96f7cfa61d8d0a.jpg",
     "static/media/Forsyth.jpg": "/AmpWebV2/static/media/Forsyth.6dda66a6046d99f30fdd.jpg",
     "static/media/Baumann.jpg": "/AmpWebV2/static/media/Baumann.3ac8524d11a38be90e38.jpg",
     "static/media/about.md": "/AmpWebV2/static/media/about.5471fdc95027a78e3d64.md",
-    "static/media/quickstart.md": "/AmpWebV2/static/media/quickstart.4bee31ef4d1b4d85e15a.md",
+    "static/media/quickstart.md": "/AmpWebV2/static/media/quickstart.38cfc2139d61c1917f71.md",
     "index.html": "/AmpWebV2/index.html",
     "main.190087cd.css.map": "/AmpWebV2/static/css/main.190087cd.css.map",
-    "main.b01bbfa9.js.map": "/AmpWebV2/static/js/main.b01bbfa9.js.map",
+    "main.53237342.js.map": "/AmpWebV2/static/js/main.53237342.js.map",
     "787.28cb0dcd.chunk.js.map": "/AmpWebV2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.190087cd.css",
-    "static/js/main.b01bbfa9.js"
+    "static/js/main.53237342.js"
   ]
 }
