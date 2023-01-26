@@ -21,7 +21,7 @@ export default function Leadership() {
         <h2>Meet Our Team: Student Staff</h2>
         <hr></hr>
         <div class = "flex-row">
-          <LeadershipBox name = "Riichard Gibbons" src={Gibbons} title = "Richard Gibbons: Team Lead"></LeadershipBox>
+          <LeadershipBox name = "Richard Gibbons" src={Gibbons} title = "Richard Gibbons: Team Lead" email = "gricha1@vt.edu"></LeadershipBox>
           <LeadershipBox name = "Henry Forsyth" src={Forsyth} title = "Henry Forsyth: Mentor/Webdev"></LeadershipBox>
         </div>
         <h2>Meet Our Team: Professors</h2>
