@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.38c159bf.css",
+    "main.css": "/static/css/main.597a0ad4.css",
     "main.js": "/static/js/main.7f0b0fee.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Forsyth.jpg": "/static/media/Forsyth.cff3fcb12b22ad3b6620.jpg",
@@ -17,12 +17,12 @@
     "index.html": "/index.html",
     "static/media/migration.md": "/static/media/migration.5f6f3b0e73fd05384430.md",
     "static/media/useful_links.md": "/static/media/useful_links.e8bc04760bbcffef9dd3.md",
-    "main.38c159bf.css.map": "/static/css/main.38c159bf.css.map",
+    "main.597a0ad4.css.map": "/static/css/main.597a0ad4.css.map",
     "main.7f0b0fee.js.map": "/static/js/main.7f0b0fee.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38c159bf.css",
+    "static/css/main.597a0ad4.css",
     "static/js/main.7f0b0fee.js"
   ]
 }
