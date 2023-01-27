@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6dafe8b8.css",
-    "main.js": "/static/js/main.e6297836.js",
+    "main.js": "/static/js/main.ae220ada.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Meadows.jpg": "/static/media/Meadows.39f3e2f48e8d6556d47a.jpg",
     "static/media/Gibbons.jpg": "/static/media/Gibbons.561c4c96f7cfa61d8d0a.jpg",
@@ -11,18 +11,18 @@
     "static/media/mentor_steps.md": "/static/media/mentor_steps.9b6c64687961cec593ba.md",
     "static/media/adv_soldering.md": "/static/media/adv_soldering.1d200eab2b7474e214bf.md",
     "static/media/quickstart.md": "/static/media/quickstart.97fef5e2a130e96cb934.md",
-    "static/media/about.md": "/static/media/about.be0bd72680354bc83bb0.md",
+    "static/media/about.md": "/static/media/about.25be067fdfd34663247e.md",
     "static/media/basic_soldering.md": "/static/media/basic_soldering.71bd40111cec04a4bf2c.md",
     "static/media/soldering.md": "/static/media/soldering.2a4fc9e0dbe26fb7864a.md",
     "index.html": "/index.html",
     "static/media/migration.md": "/static/media/migration.5f6f3b0e73fd05384430.md",
     "static/media/useful_links.md": "/static/media/useful_links.e8bc04760bbcffef9dd3.md",
     "main.6dafe8b8.css.map": "/static/css/main.6dafe8b8.css.map",
-    "main.e6297836.js.map": "/static/js/main.e6297836.js.map",
+    "main.ae220ada.js.map": "/static/js/main.ae220ada.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dafe8b8.css",
-    "static/js/main.e6297836.js"
+    "static/js/main.ae220ada.js"
   ]
 }
