@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.38c159bf.css",
-    "main.js": "/static/js/main.85e19523.js",
+    "main.js": "/static/js/main.d93e4656.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Forsyth.jpg": "/static/media/Forsyth.cff3fcb12b22ad3b6620.jpg",
     "static/media/Meadows.jpg": "/static/media/Meadows.39f3e2f48e8d6556d47a.jpg",
@@ -12,17 +12,17 @@
     "static/media/adv_soldering.md": "/static/media/adv_soldering.1d200eab2b7474e214bf.md",
     "static/media/about.md": "/static/media/about.25be067fdfd34663247e.md",
     "static/media/basic_soldering.md": "/static/media/basic_soldering.71bd40111cec04a4bf2c.md",
-    "static/media/quickstart.md": "/static/media/quickstart.0522505b8adfdf582c8d.md",
+    "static/media/quickstart.md": "/static/media/quickstart.963000fee52f9146c2c6.md",
     "static/media/soldering.md": "/static/media/soldering.2a4fc9e0dbe26fb7864a.md",
     "index.html": "/index.html",
     "static/media/migration.md": "/static/media/migration.5f6f3b0e73fd05384430.md",
     "static/media/useful_links.md": "/static/media/useful_links.e8bc04760bbcffef9dd3.md",
     "main.38c159bf.css.map": "/static/css/main.38c159bf.css.map",
-    "main.85e19523.js.map": "/static/js/main.85e19523.js.map",
+    "main.d93e4656.js.map": "/static/js/main.d93e4656.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38c159bf.css",
-    "static/js/main.85e19523.js"
+    "static/js/main.d93e4656.js"
   ]
 }

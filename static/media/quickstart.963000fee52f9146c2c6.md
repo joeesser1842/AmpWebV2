@@ -2,7 +2,7 @@
 
 This process is now simpler than ever! Follow the steps below to get started:
 
-1. Fork this repo:
+1. Fork this repo. Remember to rename it and such!
 
     <a class="btn" href="https://github.com/Amp-Lab-at-VT/SampleProject/fork" >Sample Project</a>
 
