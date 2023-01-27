@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.8d57ffc4.css",
-    "main.js": "./static/js/main.d956820d.js",
-    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
-    "static/media/Meadows.jpg": "./static/media/Meadows.39f3e2f48e8d6556d47a.jpg",
-    "static/media/Gibbons.jpg": "./static/media/Gibbons.561c4c96f7cfa61d8d0a.jpg",
-    "static/media/Forsyth.jpg": "./static/media/Forsyth.6dda66a6046d99f30fdd.jpg",
-    "static/media/Baumann.jpg": "./static/media/Baumann.3ac8524d11a38be90e38.jpg",
-    "static/media/about.md": "./static/media/about.5471fdc95027a78e3d64.md",
-    "static/media/quickstart.md": "./static/media/quickstart.38cfc2139d61c1917f71.md",
-    "index.html": "./index.html",
-    "main.8d57ffc4.css.map": "./static/css/main.8d57ffc4.css.map",
-    "main.d956820d.js.map": "./static/js/main.d956820d.js.map",
-    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.6dafe8b8.css",
+    "main.js": "/static/js/main.f2a718dc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Meadows.jpg": "/static/media/Meadows.39f3e2f48e8d6556d47a.jpg",
+    "static/media/Gibbons.jpg": "/static/media/Gibbons.561c4c96f7cfa61d8d0a.jpg",
+    "static/media/Forsyth.jpg": "/static/media/Forsyth.6dda66a6046d99f30fdd.jpg",
+    "static/media/Baumann.jpg": "/static/media/Baumann.3ac8524d11a38be90e38.jpg",
+    "static/media/tutorial.md": "/static/media/tutorial.af1d601d6afb7b63c68d.md",
+    "static/media/mentor_steps.md": "/static/media/mentor_steps.9b6c64687961cec593ba.md",
+    "static/media/adv_soldering.md": "/static/media/adv_soldering.1d200eab2b7474e214bf.md",
+    "static/media/quickstart.md": "/static/media/quickstart.97fef5e2a130e96cb934.md",
+    "static/media/about.md": "/static/media/about.caca7306e5fb13f0f44a.md",
+    "static/media/basic_soldering.md": "/static/media/basic_soldering.71bd40111cec04a4bf2c.md",
+    "static/media/soldering.md": "/static/media/soldering.2a4fc9e0dbe26fb7864a.md",
+    "index.html": "/index.html",
+    "static/media/migration.md": "/static/media/migration.5f6f3b0e73fd05384430.md",
+    "static/media/useful_links.md": "/static/media/useful_links.e8bc04760bbcffef9dd3.md",
+    "main.6dafe8b8.css.map": "/static/css/main.6dafe8b8.css.map",
+    "main.f2a718dc.js.map": "/static/js/main.f2a718dc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d57ffc4.css",
-    "static/js/main.d956820d.js"
+    "static/css/main.6dafe8b8.css",
+    "static/js/main.f2a718dc.js"
   ]
 }
